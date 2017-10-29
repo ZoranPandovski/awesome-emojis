@@ -26,7 +26,7 @@ People
 | :sleepy: `:sleepy:` | :yum: `:yum:` | :mask: `:mask:` |
 | :sunglasses: `:sunglasses:` | :dizzy_face: `:dizzy_face:` | :imp: `:imp:` |
 | :smiling_imp: `:smiling_imp:` | :neutral_face: `:neutral_face:` | :no_mouth: `:no_mouth:` |
-| :innocent: `:innocent:` | :alien: `:alien:` | :yellow_heart: `:yellow_heart:` |
+| :innocent: `:innocent:` | :face_with_head_bandage: `:face_with_head_bandage:` | | :face_with_thermometer: `:face_with_thermometer:` | :alien: `:alien:` | :yellow_heart: `:yellow_heart:` |
 | :blue_heart: `:blue_heart:` | :purple_heart: `:purple_heart:` | :heart: `:heart:` |
 | :green_heart: `:green_heart:` | :broken_heart: `:broken_heart:` | :heartbeat: `:heartbeat:` |
 | :heartpulse: `:heartpulse:` | :two_hearts: `:two_hearts:` | :revolving_hearts: `:revolving_hearts:` |
@@ -51,7 +51,7 @@ People
 | :dancers: `:dancers:` | :ok_woman: `:ok_woman:` | :no_good: `:no_good:` |
 | :information_desk_person: `:information_desk_person:` | :raising_hand: `:raising_hand:` | :bride_with_veil: `:bride_with_veil:` |
 | :person_with_pouting_face: `:person_with_pouting_face:` | :person_frowning: `:person_frowning:` | :bow: `:bow:` |
-| :couplekiss: `:couplekiss:` | :couple_with_heart: `:couple_with_heart:` | :massage: `:massage:` |
+| :couplekiss_man_woman: `:couplekiss_man_woman:` | :couple_with_heart: `:couple_with_heart:` | :massage: `:massage:` |
 | :haircut: `:haircut:` | :nail_care: `:nail_care:` | :boy: `:boy:` |
 | :girl: `:girl:` | :woman: `:woman:` | :man: `:man:` |
 | :baby: `:baby:` | :older_woman: `:older_woman:` | :older_man: `:older_man:` |
