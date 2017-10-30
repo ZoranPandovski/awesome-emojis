@@ -23,7 +23,7 @@ People
 | :sob: `:sob:` | :joy: `:joy:` | :astonished: `:astonished:` |
 | :scream: `:scream:` | :neckbeard: `:neckbeard:` | :tired_face: `:tired_face:` |
 | :angry: `:angry:` | :rage: `:rage:` | :triumph: `:triumph:` |
-| :sleepy: `:sleepy:` | :yum: `:yum:` | :mask: `:mask:` |
+| :sad: `:sad:` | :sleepy: `:sleepy:` | :yum: `:yum:` | :mask: `:mask:` |
 | :sunglasses: `:sunglasses:` | :dizzy_face: `:dizzy_face:` | :imp: `:imp:` |
 | :smiling_imp: `:smiling_imp:` | :neutral_face: `:neutral_face:` | :no_mouth: `:no_mouth:` |
 | :innocent: `:innocent:` | :face_with_head_bandage: `:face_with_head_bandage:` | | :face_with_thermometer: `:face_with_thermometer:` | :alien: `:alien:` | :yellow_heart: `:yellow_heart:` |
