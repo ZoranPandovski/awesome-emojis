@@ -1,6 +1,6 @@
-# Awesome markdown emojis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome emojis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-It was hard to find list of github markdown emojis. So here it is a complete list. Credits goes to [Rhaviers:Gist](https://gist.github.com/rxaviers/7360908)
+It was hard to find list of github emojis. So here it is a complete list. Credits goes to [Rhaviers:Gist](https://gist.github.com/rxaviers/7360908)
 
 
 People
